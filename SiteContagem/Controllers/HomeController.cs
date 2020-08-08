@@ -28,7 +28,7 @@ namespace SiteContagem.Controllers
                 TempData["Local"] = _CONTADOR.Local;
                 TempData["Kernel"] = _CONTADOR.Kernel;
                 TempData["TargetFramework"] = _CONTADOR.TargetFramework;
-                TempData["MensagemFixa"] = "Teste";
+                TempData["MensagemFixa"] = "cOMMIT VIA gIthub";
                 TempData["MensagemVariavel"] = configuration["MensagemVariavel"];
             }            
 
